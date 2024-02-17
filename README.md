@@ -1,3 +1,3 @@
 npm install
+XHyFagPPEpOpomDK2ayOKVDFSw4DaK0xLnop
 npm publish
-
